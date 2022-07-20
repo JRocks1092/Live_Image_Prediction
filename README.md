@@ -1,1 +1,1 @@
-# Live_Image_Prediction
+# Live Image Prediction
